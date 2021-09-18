@@ -1,4 +1,4 @@
-# Data_Mining_assignment1
+# Data_Mining_assignment_1
 
 For this assignment, you will explore a dataset to find a useful pattern.
 
